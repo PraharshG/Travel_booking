@@ -8,8 +8,7 @@
 |PURPOSE OF PROJECT:       TO DESIGN A TRAVEL AGENCY                     |
 |VERSION:                  1.0.0                                         |
 |HOW TO START THIS PROJECT:EXECUTE THE GIVEN CLASS                       |
-|AUTHORS:                  LIKHIT.M.M[10 'A']                            |
-|                          PRAHARSH.G[10 'A']                            |
+|AUTHORS:                  PRAHARSH.G[10 'A']                            |
 |USER INSTRUCTIONS:        PLEASE GO ACCORDING TO THE GIVEN INSTRUCTIONS |
 |                          OTHERWISE YOUR BOOKING WILL NOT BE SUCCESSFUL.|
 |                          ALSO DO NOT CHANGE THE FILES                  |
